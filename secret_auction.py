@@ -30,9 +30,3 @@ while dec:
         find_highest(bid)
     elif others == "yes":
         print("\n"*30)
-        
-      
-
-
-
-
